@@ -8,8 +8,8 @@ h1 {
 
 .result {
 	height: 60px;
-	background-color: #bbb;
-	width: 98%;
+	background-color: #d3d3d3;
+	width: 100%;
 	border-style: inset;
 	margin: 2px;
 }
@@ -21,7 +21,7 @@ h1 {
 
 .calculator-body {
 	max-width: 360px;
-	margin: auto;
+	
 }
 
 .button {
