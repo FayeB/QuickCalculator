@@ -1,0 +1,38 @@
+.App {
+	text-align: left;
+}
+
+h1 {
+	text-align: left;
+}
+
+.result {
+	height: 60px;
+	background-color: #bbb;
+	width: 98%;
+	border-style: inset;
+	margin: 2px;
+}
+
+.result p {
+	font-size: 40px;
+	margin: 5px;
+}
+
+.calculator-body {
+	max-width: 360px;
+	margin: auto;
+}
+
+.button {
+	display: block;
+	background-color: #80ffff;
+}
+
+button {
+	width: 25%;
+	height: 60px;
+	font-size: 30px;
+	border-radius: 5px;
+	opacity: .9;
+}
