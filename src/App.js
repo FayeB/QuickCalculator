@@ -31,6 +31,8 @@ class App extends Component {
 	            this.reset()
 	        }
 	        else if(button === "CE"){
+				// clear the operator flag so its allowed
+				operatorFlagSet = false;
 	            this.backspace()
 	        }
 	        else
